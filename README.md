@@ -45,7 +45,7 @@ claude skill install web-accessibility.skill
 **From this repository:**
 
 ```bash
-git clone https://github.com/your-username/web-accessibility
+git clone https://github.com/1leyo/web-accessibility-skill
 claude skill install ./web-accessibility
 ```
 
