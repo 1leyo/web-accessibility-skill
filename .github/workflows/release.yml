@@ -16,10 +16,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build .skill file
-        run: zip -r web-accessibility-de-eu.skill . -x "*.git*" -x ".github/*"
+        run: zip -r web-accessibility.skill . -x "*.git*" -x ".github/*"
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: web-accessibility-de-eu.skill
+          files: web-accessibility.skill
           generate_release_notes: true
