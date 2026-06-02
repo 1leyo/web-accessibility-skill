@@ -36,18 +36,7 @@ The skill is framework-agnostic with a React focus. It also covers Vue, Svelte, 
 
 ## Installation
 
-**From a `.skill` file:**
-
-```bash
-claude skill install web-accessibility.skill
-```
-
-**From this repository:**
-
-```bash
-git clone https://github.com/1leyo/web-accessibility-skill
-claude skill install ./web-accessibility
-```
+For a proper and up-to-date installation, visit the official [Claude Page](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
 ## Usage examples
 
